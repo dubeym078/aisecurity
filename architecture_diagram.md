@@ -1,3 +1,6 @@
+```markdown
+# Architecture Diagram
+
 ```mermaid
 graph TD;
     A[User] -->|Provides prompt| B[openai_api.py]
