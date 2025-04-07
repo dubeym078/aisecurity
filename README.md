@@ -40,3 +40,6 @@ Documentation & Libraries:
 Explore the official documentation of tools like llm-guard, Langfuse, or other LLM security frameworks to understand their implementation.
 
 By focusing on these skills and resources, you'll be well-prepared to secure LLM applications using Python while addressing potential vulnerabilities effectively.
+
+# LLM Guard 
+https://llm-guard.com/
