@@ -25,12 +25,9 @@ Regex: For pattern matching and input validation.
 
 ### Recommended Learning Resources
 Courses:
-
- Python for Cybersecurity Specialization (Coursera): Covers Python automation for cybersecurity tasks.
-
- Python Security Playground (AppSecEngineer): Focuses on identifying and mitigating Python application vulnerabilities.
-
-  Red Teaming LLM Applications (DeepLearning.AI): Teaches proactive LLM vulnerability testing.
+- Python for Cybersecurity Specialization (Coursera): Covers Python automation for cybersecurity tasks.
+- Python Security Playground (AppSecEngineer): Focuses on identifying and mitigating Python application vulnerabilities.
+- Red Teaming LLM Applications (DeepLearning.AI): Teaches proactive LLM vulnerability testing.
 
 Hands-On Practice:
 
