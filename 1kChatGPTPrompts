@@ -1,0 +1,567 @@
+
+Prompts for Engineers (245 prompts)
+Web Development
+1. Draft a step-by-step guide for creating a responsive navigation bar using CSS Grid and Flexbox.2. Write a JavaScript function to validate form input, ensuring all fields are filled and email syntax is correct.
+
+3. Create a tutorial for implementing dark mode and light mode toggles in a website using vanilla JavaScript.
+
+4. Explain how to optimize a web page’s loading speed by minimizing HTTP requests and using lazy loading.
+
+5. Provide a plan for redesigning an outdated e-commerce website, focusing on UI/UX principles.
+
+6. Generate boilerplate code for a React.js project that uses React Router for navigation.
+
+7. Assist in debugging a CSS issue where elements are not aligning properly on a webpage.
+
+8. Create a sample project that integrates a third-party API (e.g., weather, news) and displays data dynamically on a web page.
+
+9. Explain how to set up and configure a Webpack build process for a JavaScript project.
+
+10. Develop a step-by-step guide for setting up a Progressive Web App (PWA) with caching and offline functionality.
+
+11. Write a tutorial for implementing user authentication in a Node.js and Express application.
+
+12. Create an SEO checklist for ensuring a website ranks well on search engines.
+
+13. Provide a structured learning path for mastering WebAssembly and integrating it into a web project.
+
+14. Draft a guide for building a blog website with a headless CMS like Strapi or Sanity(.)io.
+
+15. Explain the process of creating a custom hook in React for managing API calls and state.
+
+16. Generate HTML and CSS code for a simple portfolio website template.
+
+17. Write a troubleshooting guide for fixing common cross-browser compatibility issues.
+
+18. Develop a plan for migrating a WordPress website to a custom-built React front-end.
+
+19. Create a guide for setting up Tailwind CSS in an existing web development project.
+
+20. Write a script to automate the deployment of a static website using GitHub Pages.
+
+21. Draft a guide for implementing real-time chat functionality in a web app using WebSockets.
+
+22. Explain how to set up a secure HTTPS server for a Node.js application using Let’s Encrypt.
+
+23. Write a tutorial for creating a reusable component library for React and deploying it on npm.
+
+24. Provide instructions for integrating Stripe for payment processing in a web application.
+
+25. Explain the steps to set up GraphQL on the back end and connect it with Apollo Client on the front end.
+
+Mobile App Development
+1.    Draft a guide for setting up a React Native project with Expo, including configuration for iOS and Android.
+
+2.     Write a tutorial on integrating Firebase authentication (email/password, Google, Facebook) into a mobile app.
+
+3.     Create a project plan for building a to-do list mobile app with local storage and push notifications.
+
+4.     Write a function in Flutter to fetch and display data from a REST API and handle errors gracefully.
+
+5.     Assist with debugging an issue in a mobile app where the app crashes when accessing the camera.
+
+6.     Generate the necessary code to implement offline functionality in a React Native app using Redux and local storage.
+
+7.     Explain the process of using Expo’s push notification service to send notifications to users of a mobile app.
+
+8.     Create a step-by-step guide for integrating Google Maps into a mobile app with custom markers and geolocation.
+
+9.     Write a plan for creating a mobile app’s dark mode using Flutter’s ThemeData and adaptive widgets.
+
+10.  Develop a strategy for handling background tasks in a mobile app using Android WorkManager or iOS Background Tasks.
+
+11.  Explain how to manage app state effectively in a Flutter app using Provider or Riverpod.
+
+12.  Generate code for implementing a splash screen in an Android app using Kotlin.
+
+13.  Draft a tutorial for creating an image picker feature in a React Native app using the ImagePicker library.
+
+14.  Provide instructions for setting up unit testing in a Flutter project with the test and mockito packages.
+
+15.  Assist in optimizing the performance of a mobile app by analyzing and improving memory usage and CPU usage.
+
+16.  Create a guide to implement authentication using JWT tokens in a React Native app.
+
+17.  Write a tutorial for handling in-app purchases in an iOS app using Swift and StoreKit.
+
+18.  Develop a strategy for automating the deployment of a React Native app using fastlane.
+
+19.  Create a project plan to build a photo gallery mobile app with user authentication and cloud storage integration.
+
+20.  Generate code for handling form input validation and error messages in a React Native app using Formik.
+
+Data Science and Machine Learning
+1.     Generate a Python script that uses pandas to clean a messy dataset, removing duplicates and filling missing values.
+
+2.     Create a tutorial for building a classification model using scikit-learn to predict customer churn.
+
+3.     Assist in optimizing a machine learning model by using grid search for hyperparameter tuning.
+
+4.     Explain the process of feature engineering for a regression model to predict housing prices.
+
+5.     Write a Python script to implement and visualize a decision tree classifier using matplotlib.
+
+6.     Create a step-by-step guide for training a neural network using TensorFlow for image classification.
+
+7.     Explain the differences between supervised and unsupervised learning and provide examples of each.
+
+8.     Provide a method for splitting a dataset into training, validation, and test sets with stratified sampling.
+
+9.     Generate a Python script to perform k-means clustering on a customer segmentation dataset and visualize the results.
+
+10.  Create a plan for deploying a machine learning model into a production environment using Flask and Docker.
+
+11.  Assist in evaluating the performance of a model by calculating precision, recall, and F1-score for a classification problem.
+
+12.  Write a script to implement principal component analysis (PCA) for dimensionality reduction on a large dataset.
+
+13.  Develop a guide for using cross-validation techniques to assess the performance of a machine learning model.
+
+14.  Create a recommendation system using collaborative filtering with the Surprise library in Python.
+
+15.  Generate Python code to implement a random forest classifier and evaluate its accuracy on a classification problem.
+
+16.  Provide a strategy for handling imbalanced datasets by using techniques like oversampling, undersampling, or synthetic data generation.
+
+17.  Write a tutorial for building a time-series forecasting model using ARIMA in Python.
+
+18.  Explain how to interpret the results of a machine learning model using SHAP or LIME.
+
+19.  Create a Python script to scrape and analyze social media data for sentiment analysis using the TextBlob library.
+
+20.  Assist in fine-tuning a deep learning model using transfer learning with pre-trained models for image recognition.
+
+Software Development
+1.       Write a function in Python to perform input validation on a user registration form, checking for email format and password strength.
+
+2.       Create a RESTful API using Flask to manage a to-do list, with endpoints for creating, reading, updating, and deleting tasks.
+
+3.       Assist with writing unit tests for a JavaScript function that calculates the total price of items in a shopping cart.
+
+4.       Develop a script to automate the process of code linting and formatting for a JavaScript project using ESLint and Prettier.
+
+5.       Create a guide for setting up a Docker container for a Node.js backend application and connecting it to a MongoDB database.
+
+6.       Write a plan for implementing version control best practices in a large software project using Git and GitHub.
+
+7.       Create a Python script to automate data extraction from an API and store the results in a CSV file.
+
+8.       Generate code to implement JWT authentication in a REST API built with Express.js.
+
+9.       Assist in refactoring a piece of legacy code to improve its readability and performance in a Python application.
+
+10.   Write a guide for setting up continuous integration and deployment (CI/CD) pipelines using GitHub Actions for a Python project.
+
+11.   Create an algorithm to optimize a search function in a large dataset, considering performance and memory usage.
+
+12.   Draft a strategy for implementing multi-tenancy in a SaaS application using microservices architecture.
+
+13.   Develop a plan for creating a real-time notification system in a web application using WebSockets.
+
+14.   Write a tutorial for integrating a third-party payment gateway, like Stripe or PayPal, into an e-commerce site.
+
+15.   Generate a script for automating the backup process of a MySQL database and storing it in cloud storage.
+
+16.   Create a simple Python-based script to interact with an external API and parse the JSON response.
+
+17.   Explain how to use mock objects in unit tests for a Java application to simulate database calls.
+
+18.   Provide a checklist for securing a web application, including common vulnerabilities and how to mitigate them.
+
+19.   Write a guide for setting up a microservices architecture with Docker and Kubernetes for container orchestration.
+
+20.   Assist in implementing event-driven architecture in a software system using Apache Kafka for message brokering.
+
+Quality Assurance Engineering
+1.       Create a comprehensive test plan for testing a web application, covering functional, non-functional, and performance aspects.
+
+2.       Write a script to automate regression testing for a new feature added to a web application using Selenium and Python.
+
+3.       Develop a checklist for performing security testing on a mobile application, ensuring data encryption and secure communication.
+
+4.       Assist in creating a suite of automated tests to verify that API endpoints return the correct status codes and data in JSON format.
+
+5.       Write a guide to setting up a continuous integration pipeline with Jenkins to automate the execution of unit tests for a Java project.
+
+6.       Generate test cases to verify cross-browser compatibility for a new web design, ensuring it works on Chrome, Firefox, Safari, and Edge.
+
+7.       Create a load testing script for an e-commerce platform using JMeter to simulate user traffic and analyze performance under stress.
+
+8.       Assist in developing an automated test framework using Playwright to test a React web application’s user interface.
+
+9.       Write a tutorial for integrating security scans into a CI/CD pipeline to ensure code is free of vulnerabilities before deployment.
+
+10.   Develop a strategy for performing user acceptance testing (UAT) for a new mobile app, gathering feedback from real users.
+
+11.   Create a plan for automated performance testing of a website to ensure it handles heavy traffic during sales or promotions.
+
+12.   Write a guide for testing a cloud-based application for scalability and redundancy, ensuring it performs well during high-demand periods.
+
+13.   Assist in setting up a test environment for running parallel tests across multiple devices in a mobile testing suite.
+
+14.   Develop a method for tracking and reporting bugs effectively in a team of developers, ensuring clear communication and quick resolutions.
+
+15.   Write a script for testing the login functionality of a web app, verifying the behavior for different types of users (admin, guest, registered).
+
+16.   Create a test case for validating an API that retrieves and updates data for a customer profile, ensuring the system is fault-tolerant.
+
+17.   Explain the process for testing machine learning models to ensure their accuracy and performance before deployment.
+
+18.   Write a plan for conducting an end-to-end test of an order processing system for an e-commerce site, including inventory and shipping.
+
+19.   Develop a checklist for testing the usability and user experience (UX) of a mobile application, ensuring it meets user expectations.
+
+20.   Assist in automating load testing for an API to ensure it can handle a large number of concurrent users without crashing.
+
+Machine Learning and AI Development
+1.       Develop a machine learning model using scikit-learn to classify customer feedback into positive or negative categories.
+
+2.       Write a Python script to preprocess text data for training a natural language processing (NLP) model.
+
+3.       Create a deep learning model in TensorFlow for object detection in images using a pre-trained model like YOLO.
+
+4.       Design a project to implement a recommendation system using collaborative filtering with the Surprise library.
+
+5.       Develop a Python script that automates hyperparameter tuning for a support vector machine model using GridSearchCV.
+
+6.       Write a script to handle imbalanced data in a classification problem using SMOTE to generate synthetic data points.
+
+7.       Explain how to implement k-means clustering on a customer dataset and visualize the clusters using matplotlib.
+
+8.       Develop a deep learning model for sentiment analysis on social media data using LSTM and Keras.
+
+9.       Create a model to predict sales trends using time series analysis with ARIMA in Python.
+
+10.   Write a Python script to evaluate the performance of a machine learning model using precision, recall, and F1-score.
+
+11.   Assist in setting up a machine learning pipeline for automating data preprocessing, model training, and evaluation.
+
+12.   Build a neural network for image classification using PyTorch, explaining the code step-by-step.
+
+13.   Create a project to implement a chatbot using Rasa NLU for natural language understanding and dialogue management.
+
+14.   Develop a recommendation engine using content-based filtering to suggest movies based on user preferences.
+
+15.   Write a Python function to visualize the feature importance of a random forest model using SHAP values.
+
+Cloud Computing and DevOps
+1.       Write a guide for deploying a Python Flask web application on AWS using Elastic Beanstalk.
+
+2.       Develop a script for automating server provisioning using Terraform for AWS infrastructure.
+
+3.       Create a CI/CD pipeline using Jenkins for continuous integration and deployment of a Node.js application.
+
+4.       Set up a Kubernetes cluster on AWS using EKS and deploy a containerized application.
+
+5.       Create an AWS Lambda function using Python to process incoming data from an S3 bucket.
+
+6.       Write a script to monitor the health of a cloud-based application on AWS using CloudWatch and send alerts.
+
+7.       Develop a Docker Compose file to run a multi-container application with a Node.js backend and MongoDB.
+
+8.       Set up a GitLab CI pipeline to automate the deployment of an application to Google Cloud Platform.
+
+9.       Create an Ansible playbook to configure web servers on multiple EC2 instances in AWS.
+
+10.   Write a Terraform script to provision an AWS S3 bucket and enable versioning and encryption.
+
+11.   Develop a solution for creating auto-scaling groups in AWS to ensure your application scales based on traffic.
+
+12.   Assist in configuring a Jenkins pipeline that deploys a web app to an Azure Web App service.
+
+13.   Write a guide for configuring Kubernetes Helm charts to deploy a scalable microservices application.
+
+14.   Create a script to automate the backup of databases in the cloud using AWS RDS and S3.
+
+15.   Design an approach for managing and automating infrastructure using GitOps with tools like ArgoCD.
+
+Networking and Security
+1.       Develop a Python script to monitor network traffic and alert for suspicious activity based on predefined patterns.
+
+2.       Write a guide for setting up a Virtual Private Network (VPN) using OpenVPN to secure remote connections.
+
+3.       Create a security protocol for encrypting sensitive data in transit using SSL/TLS in a web application.
+
+4.       Assist in configuring a firewall to block unwanted traffic while allowing access to authorized users on a Linux server.
+
+5.       Develop a script to automate the process of patching security vulnerabilities on a Linux-based server.
+
+6.       Create a solution for securing an API using OAuth 2.0 authentication and authorization mechanisms.
+
+7.       Write a step-by-step guide for setting up a web application firewall (WAF) on AWS to protect against common attacks.
+
+8.       Design a network monitoring system to track bandwidth usage, device status, and potential intrusions using Nagios.
+
+9.       Assist in implementing multi-factor authentication (MFA) for an application to enhance user security.
+
+10.   Create a guide for setting up an intrusion detection system (IDS) using Snort on a Linux server.
+
+11.   Develop a method to secure database connections by enforcing encrypted connections in PostgreSQL.
+
+12.   Write a script to automate the process of generating secure SSH keys for accessing remote servers.
+
+13.   Design a secure communication protocol for an IoT network that protects data from man-in-the-middle attacks.
+
+14.   Develop a guide for securing API endpoints using JWT tokens and HTTPS encryption.
+
+15.   Write a Python script to scan a web application for common security vulnerabilities, such as SQL injection and XSS.
+
+Embedded Systems and IoT
+1.       Write a program to interface a temperature sensor with an Arduino and display the data on an LCD screen.
+
+2.       Develop a project to send real-time sensor data from a Raspberry Pi to a cloud service like AWS IoT Core.
+
+3.       Create a script for controlling an LED matrix display using an ESP32 microcontroller over Wi-Fi.
+
+4.       Write code to interface a GPS module with a Raspberry Pi and log location data to a CSV file.
+
+5.       Develop a system that uses a motion sensor to trigger an alarm and send a notification to a mobile device.
+
+6.       Create a guide to set up MQTT for communication between IoT devices and a central server.
+
+7.       Assist in writing code for an IoT smart home system to control lights, temperature, and security via a mobile app.
+
+8.       Develop a low-power IoT solution using the ESP8266 to monitor environmental conditions with a battery-powered device.
+
+9.       Write a program to connect a Raspberry Pi to an Arduino over I2C to send and receive data between them.
+
+10.   Design a real-time monitoring system using sensors to track and display environmental data on a cloud dashboard.
+
+11.   Write a script to automate firmware updates for embedded devices over the air (OTA).
+
+12.   Create a Python script to analyze data from an IoT sensor network and visualize it on a web interface.
+
+13.   Develop an edge computing application that processes data locally on an IoT device before sending it to the cloud.
+
+14.   Design a remote-controlled robot using Raspberry Pi, Arduino, and Bluetooth, and control it via a mobile app.
+
+15.   Create an automated irrigation system using soil moisture sensors, Arduino, and cloud services for data logging.
+
+Data Engineering and Databases
+1.       Write a script to extract, transform, and load (ETL) data from a CSV file into a MySQL database.
+
+2.       Design a database schema for an e-commerce website with tables for products, orders, and customers.
+
+3.       Create an efficient indexing strategy for speeding up queries in a PostgreSQL database with large datasets.
+
+4.       Develop a data pipeline in Python to aggregate and clean data from multiple APIs before storing it in a database.
+
+5.       Write a query to join multiple tables in a SQL database and return aggregated data from various sources.
+
+6.       Create a process for importing large datasets into a MongoDB database and optimizing for query performance.
+
+7.       Assist in setting up replication for a MySQL database to ensure high availability and fault tolerance.
+
+8.       Develop a script to automate the process of backing up and restoring MongoDB databases.
+
+9.       Write a query to detect and handle missing or null values in a database table.
+
+10.   Design a database solution for storing and processing time-series data efficiently.
+
+11.   Create a process for managing schema migrations in a relational database using Flyway or Liquibase.
+
+12.   Write a Python script to parse JSON data from an API and insert it into a relational database.
+
+13.   Develop a method for monitoring database performance, including slow queries and index optimization.
+
+14.   Create an approach for real-time data streaming using Apache Kafka and storing the results in a database.
+
+15.   Design a process to create a data warehouse architecture using AWS Redshift and integrate it with ETL tools.
+
+Systems Engineering
+1. Write a script to automate the process of creating and managing user accounts on a Linux-based server.
+
+2. Design a plan for upgrading the network infrastructure of a medium-sized company to handle increased traffic.
+
+3. Develop a monitoring system for tracking server health and uptime using tools like Prometheus and Grafana.
+
+4. Create a script to automate system backups and disaster recovery processes for critical systems.
+
+5. Design a network topology for a large-scale data center, ensuring redundancy and fault tolerance.
+
+6. Develop a method for managing system configurations using configuration management tools like Ansible or Puppet.
+
+7. Write a guide for implementing centralized logging across all servers in a network using the ELK stack.
+
+8. Design a scalable solution for hosting a web application with high availability and fault tolerance.
+
+9. Develop a script to track system performance metrics such as CPU usage, memory, and disk space.
+
+10. Create a plan for scaling server resources dynamically based on user load using cloud-based infrastructure.
+
+11. Write a script for automating the process of patch management and software updates across multiple servers.
+
+12. Design an approach for implementing automated disaster recovery testing in a cloud-based environment.
+
+13. Develop a strategy for securing a company’s internal communication systems using encryption and VPNs.
+
+14. Create a guide for setting up and managing virtual machines on a VMware ESXi host in a data center.
+
+15. Write a script to monitor and alert when system resources (CPU, memory, disk space) exceed a defined threshold.
+
+Robotics and Automation
+1. Design a control algorithm for a robotic arm to move an object from one location to another with precision.
+
+2. Develop a simulation model for a robotic process automation (RPA) that can handle repetitive tasks like form filling.
+
+3. Write a program to control a drone’s movements autonomously, allowing it to fly a pre-defined path.
+
+4. Create a system to automate the testing of industrial robots' performance on a production line.
+
+5. Design a safety protocol for human-robot interaction in a factory setting, ensuring worker safety.
+
+6. Develop a machine learning model to improve a robot’s decision-making capabilities in an unpredictable environment.
+
+7. Write an automation script for calibrating robotic sensors to ensure accurate movement and measurements.
+
+8. Create a program for a robot to autonomously navigate through a maze using pathfinding algorithms like A*.
+
+9. Develop a system to monitor the health of robotic equipment and trigger maintenance alerts when needed.
+
+10. Write code to simulate the movement of a robotic arm in a 3D space using inverse kinematics.
+
+11. Design a system for automating the maintenance scheduling for industrial robots based on usage metrics.
+
+12. Create a script to monitor and adjust the robot's speed and movement based on real-time feedback from sensors.
+
+13. Develop an algorithm for optimizing robot task allocation in a multi-robot system to improve efficiency.
+
+14. Write a program for a robot to autonomously map its environment using LiDAR and visual inputs.
+
+15. Design a fault detection system for robotic arms in an industrial setting to predict and prevent breakdowns.
+
+Design and Product Engineering
+1. Create a 3D model of a mechanical part using CAD software, including design specifications for manufacturing.
+
+2. Develop a simulation to test the structural integrity of a bridge design under different load conditions.
+
+3. Write a design specification document for a consumer electronic product, including technical requirements and materials.
+
+4. Design a product with an emphasis on sustainability, using eco-friendly materials and energy-efficient features.
+
+5. Create a detailed plan for prototyping a new automotive component, including material selection and testing procedures.
+
+6. Design an ergonomic workstation layout to reduce strain on workers and improve productivity in an office environment.
+
+7. Write a feasibility study for developing a new medical device, including technical, regulatory, and market considerations.
+
+8. Create a simulation model for testing the aerodynamic properties of a new drone design.
+
+9. Develop a process for integrating renewable energy sources (e.g., solar, wind) into an existing building design.
+
+10. Design a user-friendly interface for an industrial control system to allow easy interaction for operators.
+
+11. Create a method for testing the thermal properties of a new material intended for use in electronics.
+
+12. Write a product development plan for bringing a new wearable technology to market, from concept to production.
+
+13. Design a prototype for a new consumer gadget, including functionality, form factor, and user experience considerations.
+
+14. Develop a test plan for evaluating the reliability and durability of a new mechanical product under various conditions.
+
+15. Write a report on the latest trends in sustainable product design and how they can be incorporated into current engineering practices.
+
+Cybersecurity
+1. Write a script to detect SQL injection vulnerabilities in a web application and mitigate them.
+
+2. Develop a tool to perform port scanning and identify open ports on a target system.
+
+3. Design a password hashing and salting mechanism for secure user authentication in a web application.
+
+4. Create a script to monitor for suspicious login attempts on a Linux-based system and send alerts.
+
+5. Write a guide for setting up multi-factor authentication (MFA) for an enterprise application.
+
+6. Develop a Python script to analyze network traffic and detect potential malware communications.
+
+7. Create an intrusion detection system (IDS) using machine learning to identify abnormal network behavior.
+
+8. Write a script to check for outdated software versions and known vulnerabilities using CVE databases.
+
+9. Build a system for secure file encryption and decryption in transit and at rest.
+
+10. Design a firewall configuration to protect a cloud-based web application from common attack vectors.
+
+11. Develop a penetration testing script to test for cross-site scripting (XSS) vulnerabilities on a website.
+
+12. Write a guide to configure a secure VPN for remote workers with strong encryption protocols.
+
+13. Create a tool for monitoring system logs and identifying possible security breaches in real-time.
+
+14. Implement a strategy to secure sensitive data using encryption and access control policies in a cloud environment.
+
+15. Build a system for real-time alerting on suspicious activity in a cloud-based infrastructure using AWS CloudTrail or Azure Security Center.
+
+Hardware Engineering
+1. 1. Design a printed circuit board (PCB) for a simple electronic device, including components like resistors and capacitors.
+
+2. Develop a testing procedure for verifying the functionality of a new microcontroller-based circuit.
+
+3. Write a script to simulate a circuit’s behavior before implementing it on a physical PCB using SPICE modeling.
+
+4. Design an energy-efficient power supply for a low-power embedded device.
+
+5. Create a mechanical drawing for a custom heat sink to dissipate heat from an electronic device.
+
+6. Build a testing system for evaluating the durability and performance of hardware components under extreme conditions.
+
+7. Develop a troubleshooting guide for diagnosing issues in a malfunctioning electronic circuit.
+
+8. Design a flexible PCB layout for wearable devices with minimal size and high functionality.
+
+9. Create a bill of materials (BOM) for a custom-designed embedded system.
+
+10. Develop a guide for selecting suitable sensors for an IoT device based on environmental conditions.
+
+11. Design an interface circuit to connect a microcontroller with an external sensor module.
+
+12. Write a script to automate the calculation of voltage, current, and power ratings for a given circuit.
+
+13. Create a test plan for evaluating the thermal performance of a power supply circuit.
+
+14. Develop an automated system for running diagnostics on hardware prototypes during the testing phase.
+
+15. Design a robust grounding system for an industrial control system to prevent electrical interference.
+
+16. Create a flowchart for the process of designing, prototyping, and testing a new electronic product.
+
+17. Build a simulation model for predicting the electromagnetic interference (EMI) behavior of a circuit.
+
+18. Develop a method for evaluating the long-term reliability of a microchip in harsh operating environments.
+
+19. Write a procedure for safely handling and storing sensitive components like semiconductors and integrated circuits.
+
+20. Design a custom PCB for a Bluetooth-enabled communication device with power-saving features.
+
+21. Create a procedure for testing and verifying signal integrity in high-speed digital circuits.
+
+22. Develop a set of guidelines for ensuring compliance with regulatory standards (e.g., RoHS, CE) during hardware design.
+
+23. Design a custom power management IC (PMIC) for a battery-powered device.
+
+24. Write a script to monitor and log real-time performance data from embedded systems during field testing.
+
+Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,000,000+ professionals.
+Superhuman AI
+
+Keep up with the latest AI news, trends, and tools in just 3 minutes a day. Join 1,000,000+ professionals.
+
+Home
+
+Posts
+
+Authors
+
+Account
+
+Manage Subscription
+
+Referrals
+
+Enter Your Email
+© 2025 Superhuman Newsletter.
+
+Privacy Policy
+
+Terms of Use
+
