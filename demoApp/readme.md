@@ -43,6 +43,10 @@ Run the application using the following command:
 
 After running the script, a Gradio interface will launch, and a link will be provided to access the app in your browser.
 
+Gradio will run on : http://127.0.0.1:7860
+It will provide UI for this chat to interact.
+Use shared=true for public access url.
+
 #How It Works
 
   1.  The app uses the nlptown/bert-base-multilingual-uncased-sentiment model from Hugging Face.
